@@ -8,6 +8,7 @@ public class ProjectClass {
 		
 		System.out.println("Second Day in Project Class");
 		
+		System.out.println("test");
 	}
 
 }
